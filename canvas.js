@@ -49,7 +49,7 @@ var images = {
         {title: "Figuras geometricas", text: "Possuem vertices e arestas, logo que sao a compostas do encontro de retas, que produz regioes, que chamamos de figuras.", up: true, job: "cmp.png", name: "figurag", x: 470, y: 520},
         {title: "Circunscrito", text: "Em vista de um poligono regular, sao feitas analises dentro e fora da circunferencia, pra que? Poligonos circunscritos sao aquelas os quais contem uma circunferencia dentre seu perimetro, de tal forma que nos possibilita analises como as de angulos externos e internos de poligonos regulares.", up: true, job: "cmp.png", name: "circun", x: 990, y: 580},
         {title: "Inscrito", text: "Assim como no caso circunscrito, ha um poligono e uma circunferencia, entretanto, neste caso ha um poligono dentre uma circunferencia e nao o contrario, nao se pode confundir, 6 nao e igual a nove nem de ponta cabeça. Por fim, e um conceito que extendesse assim como a sua antitese circunscrita.", up: true, job: "cmp.png", name: "inscri", x: 870, y: 360},
-        {title: "Apotoma", text:, up: true, job: "cmp.png", name: "apotoma", x: 630, y: 200},
+        {title: "Apotoma", text: "Em uma figura inscrita, é o Segmento entre um dos lados do poligono e e centro da circunferencia, sendo congruente ao raio, e perpendicular ao lado do poligono, esse é o apotoma.", up: true, job: "cmp.png", name: "apotoma", x: 630, y: 200},
     ],
     "dmp": [
         {job: "amp.png", name: ".", x: 800, y: 530},
