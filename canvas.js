@@ -29,11 +29,11 @@ function load_img(canvas, ctx, images, first, name) {
 var images = {
     "amp": [
         {job: "amp.png", name: ".", x: 530, y: 360},
-        {title:, text:, up: true, job: "emp.png", name: "plano", x: 200, y: 485},
-        {title:, text:, up: true, job: "fmp.png", name: "circun", x: 757, y: 511},
-        {title:, text:, up: true, job: "bmp.png", name: "poligonos", x: 860, y: 260},
-        {title:, text:, up: true, job: "cmp.png", name: "gplana", x: 515, y: 130},
-        {title:, text:, up: true, job: "dmp.png", name: "gespacial", x: 157, y: 237}
+        {job: "emp.png", name: "plano", x: 200, y: 485},
+        {job: "fmp.png", name: "circun", x: 757, y: 511},
+        {job: "bmp.png", name: "poligonos", x: 860, y: 260},
+        {job: "cmp.png", name: "gplana", x: 515, y: 130},
+        {job: "dmp.png", name: "gespacial", x: 157, y: 237}
     ],
     "bmp": [
         {job: "amp.png", name: ".", x: 260, y: 560},                         // 280 x 110
