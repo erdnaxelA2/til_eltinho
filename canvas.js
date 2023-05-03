@@ -53,6 +53,7 @@ var images = {
     ],
     "dmp": [
         {job: "amp.png", name: ".", x: 800, y: 530},
+        {title: "Poliedros", text: "👉 Dentre os poliedros, o que faz ele ser chamado de regular?\n👉 Quantos existem? Para os ousados... pq só estes?\n👉 Quais são e formatos das faces?", up: true, job: "dmp.png", name: "poliedros", x: 270, y: 210},
         {title: "(x, y, z)", text: "(Indisponivel), mas e a revolucao de figuras planas.", up: true, job: "dmp.png", name: "3d", x: 680, y: 290},
         {title: "Volume", text: "Um conceito ja muito bem conhecido, o volume. Qual e mais pesado 1kg de gelo ou de agua?", up: true, job: "dmp.png", name: "volume", x: 330, y: 460},
     ],
